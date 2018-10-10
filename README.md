@@ -1,6 +1,6 @@
 # APBD theme options
 By Muhammad Asadullah Al Galib
-https://andproductionbd.com
+https://galibweb.com
 
 ## About
 
@@ -35,4 +35,4 @@ require_once get_template_directory() .'/APBD-theme-options/theme-options-and-me
 
 ## Thanks
 
-If you find any difficulties, feel free to contact me here: https://andproductionbd.com
+If you find any difficulties, feel free to contact me here: https://galibweb.com
